@@ -1,6 +1,4 @@
-"""Configuration settings for the application."""
-
-
+"""configuration for environment variable."""
 from pydantic_settings import BaseSettings
 
 
