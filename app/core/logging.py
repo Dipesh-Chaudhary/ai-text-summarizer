@@ -1,4 +1,6 @@
+"""This is for logs."""
 import logging
+
 from app.core.config import settings
 
 # Configure logging
