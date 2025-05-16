@@ -1,5 +1,7 @@
-from fastapi.testclient import TestClient
+"""This is for testing the FastAPI application."""
 import pytest
+from fastapi.testclient import TestClient
+
 from app.main import app
 
 client = TestClient(app)
