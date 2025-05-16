@@ -38,7 +38,7 @@ The easiest way to run the application is using Docker:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-text-summarizer.git
+git clone https://github.com/Dipesh-Chaudhary/ai-text-summarizer.git
 cd ai-text-summarizer
 
 # Copy the example environment file and modify if needed
