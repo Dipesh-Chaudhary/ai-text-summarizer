@@ -1,0 +1,1 @@
+print("This file is to make 'app/tests' directory behave as directory.")
