@@ -38,7 +38,7 @@ The easiest way to run the application is using Docker:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-text-summarizer.git
+git clone https://github.com/Dipesh-Chaudhary/ai-text-summarizer.git
 cd ai-text-summarizer
 
 # Copy the example environment file and modify if needed
@@ -53,7 +53,7 @@ Once running, you can access:
 - Alternative API Documentation: http://localhost:8000/redoc
 
 ## Development
-See the Development Guide for instructions on setting up your development environment.
+See the [Development Guide](./docs/development.md) for instructions on setting up your development environment.
 
 ## Testing
 Run the test suite with:
@@ -65,4 +65,5 @@ pytest
 For more detailed documentation:
 
 [API Reference](./docs/api.md)
+
 [Deployment Guide](./docs/deployment.md)
