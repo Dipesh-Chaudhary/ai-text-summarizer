@@ -53,7 +53,7 @@ Once running, you can access:
 - Alternative API Documentation: http://localhost:8000/redoc
 
 ## Development
-See the [Development Guide](./development/docs/development.md) for instructions on setting up your development environment.
+See the [Development Guide](./docs/development.md) for instructions on setting up your development environment.
 
 ## Testing
 Run the test suite with:
